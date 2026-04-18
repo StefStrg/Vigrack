@@ -1,6 +1,8 @@
 # Vigrack
 Command Line Tool for cracking vigenere ciphers using frequency analysis.
-##Installation 
+
+#Installation 
+
 To use vigrack as a command, clone the repo and run the install script:
 
 chmod +x install.sh
